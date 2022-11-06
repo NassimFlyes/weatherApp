@@ -1,0 +1,32 @@
+* {
+    background-color: #D9AFD9;
+    
+
+}
+.intro{
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 30px;
+    
+}
+.container{
+    margin-top: 50px;
+    width: 400px;
+    
+}
+.city , .temp , .weather{
+    display: flex;
+    justify-content: center;  
+}
+
+.city {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.temp{
+    font-size: 70px;
+}
+.weather{
+    font-size: 30px;
+}
